@@ -1,6 +1,6 @@
 //info to reach Rebrandly API
 
-const myAPI = "4620964411e64d02b8abe2e50bb39c33";
+const myAPI = "4d9e42e8c78e94e2aba769ec54bfa4b03";
 const url = "https://api.rebrandly.com/v1/links";
 
 //my elements
